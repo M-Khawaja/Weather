@@ -8,9 +8,9 @@ It is built with Python, Plotly, and the Open-Meteo API, and allows users to vis
 git clone https://github.com/M-Khawaja/Weather.git
 cd Weather
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+### Run the app
 streamlit run weather.py
 
